@@ -1,0 +1,22 @@
+{
+    "name": "petalphp/microlyte",
+    "description": "The PetalPHP Microlyte Framework",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "petalphp/microlyte-framework": "^1.0"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jobasco",
+            "email": "asamoahjoseph@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
