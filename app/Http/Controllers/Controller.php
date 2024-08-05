@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Ultra\Routing\Controller as BaseController;
+use Ultra\Routing\Controller\Controller as BaseController;
 
 class Controller extends BaseController
 {
