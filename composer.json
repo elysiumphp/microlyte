@@ -1,5 +1,6 @@
 {
     "name": "petalphp/microlyte",
+    "type": "project",
     "description": "The PetalPHP Microlyte Framework built on top of Slim",
     "keywords": [
         "microframework",
