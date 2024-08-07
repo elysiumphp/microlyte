@@ -1,5 +1,5 @@
 {
-    "name": "petalphp/microlyte",
+    "name": "elysiumphp/microlyte",
     "type": "project",
     "description": "The PetalPHP Microlyte Framework built on top of Slim",
     "keywords": [
@@ -8,7 +8,7 @@
         "router",
         "psr7"
     ],
-    "homepage": "http://github.com/petalphp/microlyte",
+    "homepage": "http://github.com/elysiumphp/microlyte",
     "license": "MIT",
     "authors": [
         {
